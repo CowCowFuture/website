@@ -1,0 +1,12 @@
+body {
+    background-color: darkgrey;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+#main {
+    text-align: center;
+}
